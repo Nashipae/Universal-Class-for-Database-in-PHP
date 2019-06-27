@@ -1,5 +1,5 @@
 # PHP-Multidatabase-PDO-Class
-Simple PHP Class to connect and work with MySQL and PostgreSQL via PDO
+Simple and universal PHP Class to connect and work with MySQL and PostgreSQL via PDO
 
 **USAGE:**
 1. Edit your settings.php:
