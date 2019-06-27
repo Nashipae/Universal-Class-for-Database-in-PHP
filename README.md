@@ -1,4 +1,4 @@
-# PHP-Multidatabase-PDO-Class
+# PHP-Universal-Database-PDO-Class
 Simple and universal PHP Class to connect and work with MySQL and PostgreSQL via PDO
 
 **USAGE:**
